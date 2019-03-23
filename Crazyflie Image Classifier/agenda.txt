@@ -1,0 +1,84 @@
+########################################################################################################
+
+
+Description : A Neural Net Based Image classifier which classifies a given image into 15 unique swedish traffic signs
+----------------------------------------------------------------------------------------------------------------------
+
+
+Classes :
+
+0. Not a sign / poor image
+
+( Here we train with alien data and blurred images of signs)
+
+1. Signs
+ 
+
+  15 classes of signs.
+
+
+    Easy to identify: 																	
+    ----------------
+
+    STOP
+    AIRPORT
+    NO PARKING
+    NO PARKING AND STOPPING
+    Residential
+
+
+     L1
+    --------------------
+    No Bicycle
+    No Heavy Truck
+    Turn Left
+    Dangerous Curve Left
+    Roads Narrow From Left
+
+
+
+    R1
+    ------------    
+    Turn Right
+    Dangerous Curve Right
+    Roads Narrow From Right
+
+
+
+
+    Special Group
+    -------------
+
+    Circulation Warning
+    Junction
+
+
+
+Approach : 
+
+
+Classifier 1 : Predict whether an image is a traffic sign or not
+
+Classifier 2 : Predict whether an image is Easy to identify      
+
+Classifier 3 : Predict if an image is a left image
+
+Classifier 4 : predict if an image is a right image
+
+Classifier 5 : Predict if an image belongs to a special group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
