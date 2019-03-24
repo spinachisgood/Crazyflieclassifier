@@ -51,7 +51,7 @@ Classes :
     Circulation Warning
     Junction
     No Bicycle
-    No Heavy Truck
+    No Heavy Truck	
 
 
 
