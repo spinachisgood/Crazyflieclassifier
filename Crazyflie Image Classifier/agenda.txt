@@ -29,8 +29,7 @@ Classes :
 
      L1
     --------------------
-    No Bicycle
-    No Heavy Truck
+    
     Turn Left
     Dangerous Curve Left
     Roads Narrow From Left
@@ -51,6 +50,8 @@ Classes :
 
     Circulation Warning
     Junction
+    No Bicycle
+    No Heavy Truck
 
 
 
